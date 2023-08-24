@@ -1,4 +1,4 @@
-# Oficina - Sistema de Gerenciamento de Ordens de Serviço
+# Oficina - Sistema de Gerenciamento de Ordens de Serviço🏎️
 
 O <bold>Oficina<bold/> é um projeto de sistema de gerenciamento de ordens de serviço para uma oficina mecânica. Ele permite o acompanhamento de clientes, veículos, serviços e ordens de serviço, bem como detalhes associados a cada ordem de serviço.
 
